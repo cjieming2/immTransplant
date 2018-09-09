@@ -1,0 +1,38 @@
+ImmTransplant contains processed flat files of solid organ transplantation from ImmPort used in the manuscript. Also included is a cytoscape file used as part of the visualization for the trajectory map.
+
+1) field_descriptions.xlsx
+--> Excel sheet containing the descriptions of the fields in the final.iTx immTransplant files.
+
+2) tx_traj_map.cys
+--> Cytoscape file to visualize post-transplant outcomes of donors
+
+
+### IMMTRANSPLANT ###
+--the following immTransplant files are tab-delimited files
+
+3) final.iTx.DM.txt
+--> donor demographics
+ 
+4) final.iTx.pretx_exam.txt
+--> donor pre-transplant examination
+
+5) final.iTx.pretx_medicalhx.txt
+--> donor pre-transplant medical history
+
+6) final.iTx.pretx_HLA.txt
+--> donor pre-transplant HLA information
+
+7) final.iTx.pretx_sero.txt
+--> donor pre-transplant serology information
+
+8) final.iTx.intraoperative.txt
+--> donor intraoperative information
+
+9) final.iTx.posttx_exam.txt
+--> donor post-transplant examination
+
+10) final.iTx.posttx_outcomes.txt
+--> donor post-transplant outcomes
+
+11) final.iTx.recipient.txt
+--> recipient information 
